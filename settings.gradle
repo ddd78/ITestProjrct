@@ -1,3 +1,4 @@
+include ':navigation'
 include ':testLibb'
 include ':app'
 rootProject.name = "ITestProjrct"
