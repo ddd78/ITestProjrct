@@ -1,0 +1,3 @@
+include ':testLibb'
+include ':app'
+rootProject.name = "ITestProjrct"
