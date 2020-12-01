@@ -9,7 +9,11 @@ public class Tett {
         return mTett;
     }
 
-    private String getTTTT() {
+    public String getTTTT() {
         return "ttt";
+    }
+
+    public static String getgetttete() {
+        return "13546";
     }
 }
